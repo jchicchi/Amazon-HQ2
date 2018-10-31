@@ -14,4 +14,4 @@ My speculation on the motivation for Amazon's second headquarters:
 
  The basis of my analysis is that we can compare the demographics of Seattle and e.g. Atlanta and Boston, and see how they fit together. 
 
- Inevitably this is not the final word on Amazon's HQ2. It would be impossible to carry out every aspect of this analysis but I can still show some meaningful analysis. Here’s what I’m trying to show you: 1) some fundamental statistics such as t-test and f-test 2) examples of unsupervised analysis: k-means and hiearchichal clusters and 3) an example of supervised analysis: and random forest. 
+ Inevitably this is not the final word on Amazon's HQ2. It would be impossible to carry out every aspect of this analysis but I can still show some meaningful analysis. Here’s what I’m trying to show you: 1) some fundamental statistics such as t-test and f-test 2) examples of unsupervised analysis: k-means and hiearchichal clusters and 3) an example of supervised analysis: random forest. 

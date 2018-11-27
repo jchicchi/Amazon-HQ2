@@ -1,4 +1,5 @@
 # amazon-hq2
+While we now know the locations of Amazon's HQ2, this was still a fun data analytics project. 
 
 My speculation on the motivation for Amazon's second headquarters:
 
